@@ -1,0 +1,117 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yugu.shoppingmall"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:5:5-44:19
+12        android:allowBackup="true"
+12-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\Administrator\.gradle\caches\transforms-3\32b22ae24ddd49268bb45350efca99f0\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@drawable/logo"
+18-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:9:9-38
+19        android:label="@string/app_name"
+19-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:10:9-41
+20        android:supportsRtl="true"
+20-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Shoppingmall" >
+22-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:12:9-50
+23        <activity
+23-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:14:9-16:40
+24            android:name="com.yugu.shoppingmall.home.fragment.UserCartFragment"
+24-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:15:13-59
+25            android:exported="false" />
+25-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:16:13-37
+26        <activity
+26-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:17:9-19:40
+27            android:name="com.yugu.shoppingmall.home.fragment.TypeCartFragment"
+27-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:18:13-59
+28            android:exported="false" />
+28-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:19:13-37
+29        <activity
+29-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:20:9-22:40
+30            android:name="com.yugu.shoppingmall.home.fragment.ShoppingCartFragment"
+30-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:21:13-63
+31            android:exported="false" />
+31-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:22:13-37
+32        <activity
+32-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:23:9-25:40
+33            android:name="com.yugu.shoppingmall.home.fragment.CommunityFragment"
+33-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:24:13-60
+34            android:exported="false" />
+34-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:25:13-37
+35        <activity
+35-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:26:9-28:40
+36            android:name="com.yugu.shoppingmall.home.fragment.HomeFragment"
+36-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:27:13-55
+37            android:exported="false" />
+37-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:28:13-37
+38        <activity
+38-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:29:9-31:40
+39            android:name="com.yugu.shoppingmall.base.BaseFragment.java"
+39-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:30:13-51
+40            android:exported="false" />
+40-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:31:13-37
+41        <activity
+41-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:32:9-40:20
+42            android:name="com.yugu.shoppingmall.WelcomeActivity"
+42-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:33:13-44
+43            android:exported="true" >
+43-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:34:13-36
+44            <intent-filter>
+44-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:35:13-39:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:36:17-69
+45-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:36:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:38:17-77
+47-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:38:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:41:9-43:39
+51            android:name="com.yugu.shoppingmall.MainActivity"
+51-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:42:13-41
+52            android:exported="true" />
+52-->E:\Projects\AndroidStudioProjects\shoppingmall\app\src\main\AndroidManifest.xml:43:13-36
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+56            android:authorities="com.yugu.shoppingmall.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\bb0f2a72cc1631bb9454f58e905f387a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\5ca7a0091996a412e62575dce1eb2283\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\5ca7a0091996a412e62575dce1eb2283\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\5ca7a0091996a412e62575dce1eb2283\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>

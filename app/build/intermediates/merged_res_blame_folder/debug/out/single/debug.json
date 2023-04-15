@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_shopping_cart_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_shopping_cart_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_community_btn_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_community_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_user_button_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\user_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_type_cart_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_type_cart_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_community_button_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\community_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_community_button.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_community_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_user_button.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_user_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_cart_button.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_cart_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_home_btn_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_home_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_home_button.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_home_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.yugu.shoppingmall.app-merged_res-25:/layout_activity_welcome.xml.flat",
+        "source": "com.yugu.shoppingmall.app-main-27:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_cart_button_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\cart_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_user_cart_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_user_cart_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_type_button_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\type_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_tpye_btn_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_tpye_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_home_button_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\home_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_cart_btn_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_cart_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_type_button.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_type_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_home_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_home_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_bottom_button_text_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\bottom_button_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\drawable_main_user_btn_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\drawable\\main_user_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-merged_res-25:\\layout_activity_community_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.yugu.shoppingmall.app-main-27:\\layout\\activity_community_fragment.xml"
+    }
+]

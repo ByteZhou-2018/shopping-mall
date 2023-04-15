@@ -1,23 +1,20 @@
 package com.yugu.shoppingmall;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-<<<<<<< HEAD
 import android.os.Bundle;
-=======
 import android.content.Intent;
-import android.os.Bundle;
 import android.os.Handler;
->>>>>>> 79bdca5 (first commit)
 
+/**
+ * 欢迎界面
+ */
 public class WelcomeActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
-<<<<<<< HEAD
-=======
+
         //两秒钟进入MainActivity
         new Handler().postDelayed(new Runnable() {
             @Override
@@ -27,7 +24,6 @@ public class WelcomeActivity extends AppCompatActivity {
                 //关闭当前页面（结束WelcomeActivity）
                 finish();
             }
-        }, 2000);
->>>>>>> 79bdca5 (first commit)
+        }, 599900);
     }
 }

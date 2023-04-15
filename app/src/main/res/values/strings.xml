@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">shoppingmall</string>
+    <string name="app_name">乐购商城</string>
+    <string name="wellcome_msg">享受生活，就上乐购商城！</string>
 </resources>
