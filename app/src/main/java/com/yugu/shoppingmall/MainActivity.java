@@ -80,6 +80,7 @@ public class MainActivity extends FragmentActivity {
                  * 第一个参数: 上次显示的Fragment
                  * 第二个参数: 当前正要显示的Fragment
                  */
+
                 switchFragment(tempFragment,baseFragment);
             }
         });
@@ -90,11 +91,20 @@ public class MainActivity extends FragmentActivity {
      */
     private void initFragment(){
         fragments = new ArrayList<BaseFragment>();
-        fragments.add(new HomeFragment());
+        HomeFragment homeFragment = new HomeFragment();
+
+        fragments.add(homeFragment);
         fragments.add(new TypeCartFragment());
         fragments.add(new CommunityFragment());
         fragments.add(new ShoppingCartFragment());
         fragments.add(new UserCartFragment());
+//        首次加载时，初始化HomeFragment
+        if (tempFragment == null){
+            BaseFragment baseFragment = getFragment(position);
+            tempFragment = baseFragment;
+            FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+            transaction.add(R.id.frameLayout,tempFragment).commit();
+        }
     }
 
     /**

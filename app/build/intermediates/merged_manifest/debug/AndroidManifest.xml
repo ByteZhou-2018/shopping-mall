@@ -7,6 +7,9 @@
     <uses-sdk
         android:minSdkVersion="24"
         android:targetSdkVersion="33" />
+    <!-- 开启网络服务权限，用于实现轮播图 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"

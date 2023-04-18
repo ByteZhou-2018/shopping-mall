@@ -24,6 +24,6 @@ public class WelcomeActivity extends AppCompatActivity {
                 //关闭当前页面（结束WelcomeActivity）
                 finish();
             }
-        }, 599900);
+        }, 2000);
     }
 }
